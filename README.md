@@ -12,7 +12,9 @@ Trends and Forecasting: Highlight sales trends and make future projections based
 
 **Data Source**
 
-Source of Data: The analysis was based on sales transaction records exported from the company's database or ERP system. The data includes:
+Source of Data: The analysis was based on sales transaction records exported from the company's database or ERP system. 
+The data includes:
+
 Sales transactions
 Product details
 Customer information
@@ -22,13 +24,18 @@ The data was processed and visualized in Power BI to generate insights and repor
 **Tools Used**
 
 Power BI: For data visualization and dashboard creation.
+
 Tabular Data Models: Used to structure and analyze the dataset effectively.
+
 Power Query: For data transformation and cleaning.
 
 **Key Features of the Report**
 
 Dynamic Dashboards: Interactive visuals to explore sales by region, product, and time.
+
 KPIs: Displayed key metrics such as total sales, revenue growth, and profit margins.
+
 Predictive Insights: Implemented basic forecasting models for sales trends.
+
 
 ![Portfolio Dashboard](dashboard-screenshot.png)
